@@ -2,7 +2,7 @@
 
 An operations dashboard for a grocery delivery start-up in Barcelona, Madrid and Valencia. It uses an LLM (Claude, via OpenRouter) to make the decisions the ops team was making by hand in spreadsheets and WhatsApp.
 
-![Substitution engine](screenshots/substitution-engine.png)
+![Substitution engine](substitution-engine.png)
 
 ## The problem
 
